@@ -25,7 +25,13 @@ Student Course Planner is a web application built using Next.js, React, TypeScri
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vaidehishetye1805-afk/student-course-repository.git
+```
+
+### Navigate to the project directory
+
+```bash
+cd student-course-repository
 ```
 
 ### Install dependencies
@@ -46,6 +52,6 @@ npm run dev
 http://localhost:3000
 ```
 
-## Author
+## By
 
 Vaidehi Shetye
